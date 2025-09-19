@@ -1,4 +1,4 @@
-<script setup lang="ts">useSeo({ title: 'Cloud Hosting — Sorabit', description: 'Paket cloud hosting cepat & aman.' })</script>
+<script setup lang="ts">useSeo({ title: 'Cloud VPS — Sorabit', description: 'Paket cloud hosting cepat & aman.' })</script>
 <template>
   <section class="grid gap-6">
     <h1 class="text-2xl font-bold">Cloud VPS</h1>
